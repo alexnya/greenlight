@@ -96,5 +96,3 @@ gem 'omniauth-saml'
 
 # For device detection to determine BigBlueButton client.
 gem 'browser'
-
-gem 'wdm', '>= 0.1.0'
